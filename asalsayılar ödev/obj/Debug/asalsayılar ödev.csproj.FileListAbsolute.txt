@@ -1,0 +1,12 @@
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.csprojAssemblyReference.cache
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar_ödev.Form1.resources
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar_ödev.Properties.Resources.resources
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.csproj.GenerateResource.cache
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\bin\Debug\asalsayılar ödev.exe.config
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\bin\Debug\asalsayılar ödev.exe
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\bin\Debug\asalsayılar ödev.pdb
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.csproj.CopyComplete
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.exe
+C:\Users\Abdulkadir Kaya\source\repos\asalsayılar ödev\asalsayılar ödev\obj\Debug\asalsayılar ödev.pdb
